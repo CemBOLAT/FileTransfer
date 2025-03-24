@@ -1,0 +1,8 @@
+.
+..
+.vscode
+armut.txt
+client
+client.c
+main.c
+server
